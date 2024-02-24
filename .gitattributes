@@ -1,0 +1,2 @@
+dados_2021/CADASTRO_CURSOS_2021.csv filter=lfs diff=lfs merge=lfs -text
+dados_2022/CADASTRO_CURSOS_2022.csv filter=lfs diff=lfs merge=lfs -text
